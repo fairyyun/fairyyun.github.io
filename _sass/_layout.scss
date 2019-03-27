@@ -1139,20 +1139,35 @@ bokeh:nth-child(100) {
 }
 
 @media screen and (max-width: 670px) {
-    
-h1 {
 
-    font-size: 60px;
+    h1 {
 
-}
+        font-size: 60px;
 
-span {
-    font-size: 50px;
+    }
 
-}
+    span {
+        font-size: 50px;
 
-h2 {
-    font-size: 3rem;
+    }
 
-}
+    h2 {
+        font-size: 3rem;
+
+    }
+
+    .cake {
+        top: 270px;
+
+    }
+
+    .plate {
+
+        top: 400px;
+
+    }
+
+    .candle {
+        top: 300px;
+    }
 }
