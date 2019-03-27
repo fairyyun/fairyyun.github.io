@@ -7,6 +7,29 @@ span {
     display: block;
 }
 
+
+
+@media screen and (min-width: 670px) {
+    
+
+h1 {
+
+    font-size: 60px;
+
+}
+
+span {
+    font-size: 50px;
+
+}
+
+h2 {
+    font-size: 3rem;
+
+}
+}
+
+
 body {
     background: linear-gradient(to right, #e2b8f7, #d4bafa, #c7bcfb, #b9befb, #acbff9);
     cursor: crosshair;
