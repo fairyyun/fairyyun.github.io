@@ -781,10 +781,10 @@ bokeh:nth-child(100) {
     margin: auto;
     width: 200px;
     height: 60px;
-    background: #ff90b4;
+    background: -webkit-linear-gradient(90deg, #ffb4cd 0%, #f2668e 100%);
     border-radius: 100%;
     transform: translateZ(100px);
-    box-shadow: 0px 4px 0px #f4f9fd, 0px 8px 0px #dba9ff, 0px 12px 0px #fec3b3, 0px 16px 0px #f7f6fb, 0px 20px 0px #f7f6fb, 0px 24px 0px #f7f6fb, 0px 28px 0px #f7f6fb, 0px 32px 0px #fea0bb, 0px 36px 0px #fea0bb, 0px 40px 0px #9cef9d, 0px 44px 0px #9cef9d, 0px 48px 0px #f7f6fb, 0px 52px 0px #f7f6fb, 0px 56px 0px #f7f6fb, 0px 60px 0px #f7f6fb, 0px 64px 0px #f7f6fb, 0px 68px 0px #dfa5fc, 0px 72px 0px #dfa5fc, 0px 76px 0px #fafffe, 0px 80px 0px #fafffe;
+    box-shadow: 0px 2px 0px #f4f9fd, 0px 8px 0px #f7f6fb, 0px 12px 0px #faa8be, 0px 16px 0px #faa8be, 0px 20px 0px #faa8be, 0px 24px 0px #faa8be, 0px 28px 0px #f7f6fb, 0px 32px 0px #f7f6fb, 0px 36px 0px #f7f6fb, 0px 40px 0px #ff90b4, 0px 44px 0px #ff90b4, 0px 48px 0px #ff90b4, 0px 52px 0px #ff90b4, 0px 56px 0px #f7f6fb, 0px 60px 0px #f7f6fb, 0px 64px 0px #f7f6fb, 0px 68px 0px #dfa5fc, 0px 72px 0px #dfa5fc, 0px 76px 0px #fafffe, 0px 80px 0px #fafffe, 0px 84px 0px #fafffe;
 }
 
 .plate {
@@ -793,7 +793,7 @@ bokeh:nth-child(100) {
     width: 300px;
     bottom: -95px;
     left: 50%;
-    top: 420px;
+    top: 424px;
     margin-left: -150px;
     border-radius: 100%;
     background: radial-gradient(ellipse closest-side at center, #f9e6f3 0%, #f3c5d6 71%, #ffafd4 100%);
