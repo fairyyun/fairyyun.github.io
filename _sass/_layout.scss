@@ -19,7 +19,8 @@ h1 {
     position: fixed;
     text-align: center;
     width: 100%;
-    top: 500px;
+    top: 285px;
+    opacity: 0.3;
     font-size: 90px;
     background: -webkit-linear-gradient(0deg, #b68eef 0%, #93a0ef 100%);
     -webkit-background-clip: text;
@@ -1140,10 +1141,7 @@ bokeh:nth-child(100) {
 
     h1 {
 
-        top: 285px;
         font-size: 1.8rem;
-        opacity: 0.3;
-
     }
 
     span {
