@@ -4,7 +4,7 @@ motto:
 email: fsux@outlook.com
 description: Wumuyun
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://happybirthday.github.io" # the base hostname & protocol for your site
+url: "https://wumuyun.net" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  FSUX
 pygments: true
